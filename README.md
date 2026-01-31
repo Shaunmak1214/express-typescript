@@ -229,3 +229,32 @@ docker-compose up -d
 
 ![Under Maintenance Page](/screens/UnderMaintenance.png)
 > Note: In case an error is generated, so instead of plain errors we can show the under maintenance page.
+
+## About GeekyAnts
+
+This boilerplate is maintained by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript),
+a product development studio specializing in:
+
+- [Backend Engineering](https://geekyants.com/engineering/backend?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript) -
+  Scalable server-side solutions
+- [Node.js Development](https://geekyants.com/hire-nodejs-developers?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript) -
+  Expert Node.js developers for hire
+- [Full Stack Development](https://geekyants.com/service/full-stack-app-development-services?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript) -
+  End-to-end application development
+
+### Enterprise Solutions
+
+Need a custom backend architecture? Our
+[backend engineering team](https://geekyants.com/engineering/backend?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript)
+can help you build:
+
+- Microservices architecture
+- API development and integration
+- Database design and optimization
+
+[Schedule a consultation](https://geekyants.com/hire?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript)
+
+---
+
+Built by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript) |
+[Node.js Development Services](https://geekyants.com/hire-nodejs-developers?utm_source=github&utm_medium=opensource&utm_campaign=express-typescript)
